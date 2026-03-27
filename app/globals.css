@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --night: #050812;
+  --twilight: #1e2540;
+  --starlight: #f8fbff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: 'Noto Sans SC', 'PingFang SC', system-ui, sans-serif;
+  background-color: var(--night);
+  color: var(--starlight);
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(255, 255, 255, 0.15), transparent 45%),
+    radial-gradient(circle at 70% 0%, rgba(255, 255, 255, 0.12), transparent 40%),
+    linear-gradient(180deg, #070b17 0%, #101530 35%, #141a31 100%);
+}
+
+main {
+  width: 100%;
+}

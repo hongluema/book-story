@@ -1,0 +1,86 @@
+[
+  {
+    "id": "rabbit-brush-teeth",
+    "title": "小兔子刷牙去睡觉",
+    "source": "library",
+    "topic": "刷牙",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "小兔子准备睡觉，可是牙齿还亮着光",
+        "imagePrompt": "a sleepy rabbit holding a toothbrush beside a cozy bed",
+        "interactionHint": "拍拍小兔子的头，然后帮它挤牙膏"
+      },
+      {
+        "pageNumber": 2,
+        "text": "它挤出泡泡，牙刷在太阳花杯子里转圈圈",
+        "imagePrompt": "a rabbit brushing its teeth with sparkling bubbles around",
+        "interactionHint": "数一数泡泡，看看有几个"
+      },
+      {
+        "pageNumber": 3,
+        "text": "每个牙齿都有朋友来打招呼，刷呀刷呀",
+        "imagePrompt": "cute teeth characters waving while being brushed",
+        "interactionHint": "跟牙齿朋友打招呼"
+      },
+      {
+        "pageNumber": 4,
+        "text": "牙齿亮晶晶，小兔子抱枕睡得香香",
+        "imagePrompt": "rabbit snuggled under blankets with sparkling teeth",
+        "interactionHint": "说一声晚安，吹个小睡吻"
+      }
+    ]
+  },
+  {
+    "id": "moon-share-stars",
+    "title": "月亮分享小星星",
+    "source": "library",
+    "topic": "分享",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "今晚月亮觉得自己亮得太孤单",
+        "imagePrompt": "gentle moon looking thoughtful over a sleepy village",
+        "interactionHint": "伸手摸摸月亮的光"
+      },
+      {
+        "pageNumber": 2,
+        "text": "它召唤小星星们来跳舞，一起照亮山谷",
+        "imagePrompt": "moon sending sparkling stars dancing above mountains",
+        "interactionHint": "吹口哨让星星们飞"
+      },
+      {
+        "pageNumber": 3,
+        "text": "孩子们收到星星的礼物，心里暖洋洋",
+        "imagePrompt": "children catching glowing star lanterns in hands",
+        "interactionHint": "闭上眼睛许个愿"
+      }
+    ]
+  },
+  {
+    "id": "lion-bold-heart",
+    "title": "小狮子勇敢找回朋友",
+    "source": "library",
+    "topic": "勇敢",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "小狮子发现朋友跑去森林尽头，不敢跟过去",
+        "imagePrompt": "young lion peeking into dark forest with worried eyes",
+        "interactionHint": "拍拍小狮子的背，鼓励它"
+      },
+      {
+        "pageNumber": 2,
+        "text": "它记起勇敢的故事，决定迈开大步",
+        "imagePrompt": "lion taking confident steps through tall grass",
+        "interactionHint": "模仿大步走三下"
+      },
+      {
+        "pageNumber": 3,
+        "text": "风里传来朋友的呼喊，勇气让它冲出去",
+        "imagePrompt": "forest clearing with lion roaring joyfully",
+        "interactionHint": "大声帮它回应"
+      }
+    ]
+  }
+]
